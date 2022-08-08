@@ -1,0 +1,13 @@
+{
+    "6FD2017AF35F87A707C6572012F1B5BEE0EAD9D6": {
+        "brief": "Distance (Refract Studios)",
+        "type": "nuget",
+        
+        "data": {
+            "nuget_link": "https://www.nuget.org/api/v2/package/Centrifuge.GameSupport.Distance",
+            "version": "4.1.0",
+            "zip_path": "lib/net35/Centrifuge.Distance.dll",
+            "out_path": "Centrifuge/GameSupport/Centrifuge.Distance.dll"
+        }
+    }
+}
